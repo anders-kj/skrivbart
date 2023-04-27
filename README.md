@@ -5,3 +5,4 @@ A tool for creating document outlines.
 * Document
 * Purpose statement
 * Concepts
+* Mindmap
