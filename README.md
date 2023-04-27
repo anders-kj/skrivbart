@@ -6,3 +6,4 @@ A tool for creating document outlines.
 * Purpose statement
 * Concept
 * Mindmap
+* Outline
